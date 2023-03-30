@@ -1,0 +1,15 @@
+D:\job\edmi\translator\translation\bin\Debug\net6.0\translation.exe
+D:\job\edmi\translator\translation\bin\Debug\net6.0\translation.deps.json
+D:\job\edmi\translator\translation\bin\Debug\net6.0\translation.runtimeconfig.json
+D:\job\edmi\translator\translation\bin\Debug\net6.0\translation.dll
+D:\job\edmi\translator\translation\bin\Debug\net6.0\translation.pdb
+D:\job\edmi\translator\translation\obj\Debug\net6.0\translation.csproj.AssemblyReference.cache
+D:\job\edmi\translator\translation\obj\Debug\net6.0\translation.GeneratedMSBuildEditorConfig.editorconfig
+D:\job\edmi\translator\translation\obj\Debug\net6.0\translation.AssemblyInfoInputs.cache
+D:\job\edmi\translator\translation\obj\Debug\net6.0\translation.AssemblyInfo.cs
+D:\job\edmi\translator\translation\obj\Debug\net6.0\translation.csproj.CoreCompileInputs.cache
+D:\job\edmi\translator\translation\obj\Debug\net6.0\translation.dll
+D:\job\edmi\translator\translation\obj\Debug\net6.0\refint\translation.dll
+D:\job\edmi\translator\translation\obj\Debug\net6.0\translation.pdb
+D:\job\edmi\translator\translation\obj\Debug\net6.0\translation.genruntimeconfig.cache
+D:\job\edmi\translator\translation\obj\Debug\net6.0\ref\translation.dll
